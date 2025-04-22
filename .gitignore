@@ -1,2 +1,4 @@
-/venv
+/.venv
 /.env
+/data/raw/*.zip
+/data/raw/*.csv
